@@ -1,0 +1,2 @@
+module wl.moduledemo {
+}
